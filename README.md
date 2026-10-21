@@ -24,7 +24,9 @@ my-gemini-api/
 └── README.md
 
 ---
-## 🛠️ Developer Credits
+
+
+## 🔰 Developer Credits
 This API was developed by —͟͞͞𝗬𝗨𝗧𝗧𝗔 ⸙
 
 - **Telegram:** t.me/zerox6t9
